@@ -116,7 +116,17 @@ jupyter notebook
 Open **House_Price_Prediction.ipynb** and run all cells.
 
 ---
+## 📷 Project Output
 
+### Correlation Heatmap
+
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+### Actual vs Predicted House Prices
+
+![Prediction Plot](images/prediction_plot.png)
+
+---
 ## 📈 Future Improvements
 
 - Hyperparameter Tuning
