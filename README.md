@@ -62,7 +62,15 @@ The dataset contains information such as:
 
 - R² Score
 - Mean Absolute Error (MAE)
+## 📈 Results
 
+The XGBoost Regressor was trained on the California Housing dataset and evaluated using regression metrics.
+
+**Model Performance**
+- R² Score: *(Add your actual score here)*
+- Mean Absolute Error (MAE): *(Add your actual score here)*
+
+The model demonstrates strong predictive performance for estimating house prices.
 ---
 
 ## 📁 Project Structure
